@@ -1,4 +1,4 @@
-<img src="assets/images/cover.png" style="width:100%;">
+<img src="assets/images/cover.jpg" style="width:100%;">
 
 <!-- About Me -->
 <h2>
