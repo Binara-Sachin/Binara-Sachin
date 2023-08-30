@@ -19,7 +19,7 @@
         "Mobile Development",
         "Game Development"
     ],
-    "languages": ["Java", "Flutter", "DOT NET"],
+    "languages": ["Java", "Flutter", ".NET"],
     "hobbies": ["Anime", "Gaming", "Chess"]
 }
 ```
