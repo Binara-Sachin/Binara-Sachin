@@ -6,20 +6,23 @@
     <b> About Me </b>
 </h2>
 
-<pre>
+```
 {
-  "name": "Binara Sachin",
-  "work": "Software Engineer @ WSO2",
-  "education": "BSc. (hons) Engineering",
-  "interests": [
-    "Identity and Access Management",
-    "Mobile Development",
-    "Game Development"
-  ],
-  "languages": ["Java", "Flutter"],
-  "hobbies": ["Anime", "Gaming", "Chess"]
+    "name": "Binara Sachin",
+    "work": "Software Engineer (IAM) @ WSO2",
+    "education": [
+        "MSc. Advanced Software Engineering - University of Westminster, UK",
+        "BSc. (hons) Engineering - University of Moratuwa, SL",
+    ],
+    "interests": [
+        "Identity and Access Management",
+        "Mobile Development",
+        "Game Development"
+    ],
+    "languages": ["Java", "Flutter", "DOT NET"],
+    "hobbies": ["Anime", "Gaming", "Chess"]
 }
-</pre>
+```
 
 <!-- Tools and Technologies -->
 <h2>
