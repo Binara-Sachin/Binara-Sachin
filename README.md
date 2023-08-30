@@ -2,7 +2,7 @@
 
 <!-- About Me -->
 <h2>
-    <img src="assets/images/about_me.gif" width="20">
+    <img src="assets/icons/about_me.gif" width="20">
     <b> About Me </b>
 </h2>
 
