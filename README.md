@@ -46,6 +46,7 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Configure an OpenLDAP as the Primary UserStore in the WSO2 Identity Server](https://medium.com/@binara.sachin/configure-an-openldap-as-the-primary-userstore-in-the-wso2-identity-server-6ed75b9b13d?source=rss-4b8aee6079f3------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Connect With Me -->
