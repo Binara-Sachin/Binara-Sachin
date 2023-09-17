@@ -75,10 +75,14 @@
 ---
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Binara-Sachin&show_icons=true&theme=dark#gh-dark-mode-only" alt="Github Stats Dark"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Binara-Sachin&show_icons=true&theme=default#gh-light-mode-only" alt="Github Stats Light"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binara-Sachin&layout=compact&theme=dark#gh-dark-mode-only" alt="Github Language Stats Dark"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binara-Sachin&layout=compact&theme=default#gh-light-mode-only" alt="Github Language Stats Light"/>
+    <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api?username=Binara-Sachin&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Binara-Sachin&show_icons=true&theme=default" />
+    </picture>
+    <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Binara-Sachin&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binara-Sachin&layout=compact&theme=default" />
+    </picture>
 </div>
 
 <p align="center"> 
