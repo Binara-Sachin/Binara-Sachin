@@ -45,8 +45,6 @@
     <b> Blog Posts </b>
 </h2>
 
-<div id="test"></div>
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -78,23 +76,6 @@
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Binara-Sachin&label=Profile%20views&color=0e75b6&style=flat" alt="Binara-Sachin"/>
 </p>
-
-<!-- --- -->
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.4/lottie.min.js">
-<script>
-   var animation = bodymovin.loadAnimation({
-      // animationData: { /* ... */ },
-      container: document.getElementById('test'), // required
-      path: 'assets/animations/document.json', // required
-      renderer: 'svg', // required
-      loop: true, // optional
-      autoplay: true, // optional
-      name: "Demo Animation", // optional
-   });
-</script>
-
-<!-- --- -->
 
 <!--
 **Binara-Sachin/Binara-Sachin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
