@@ -74,11 +74,15 @@
 
 ---
 
-[![Binara Sachin's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Binara-Sachin&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Binara-Sachin/github-readme-stats#gh-dark-mode-only)
-[![Binara Sachin's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Binara-Sachin&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Binara-Sachin/github-readme-stats#gh-light-mode-only)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Binara-Sachin&show_icons=true&theme=dark#gh-dark-mode-only" alt="Github Stats Dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Binara-Sachin&show_icons=true&theme=default#gh-light-mode-only" alt="Github Stats Light"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binara-Sachin&layout=compact&theme=dark#gh-dark-mode-only" alt="Github Language Stats Dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binara-Sachin&layout=compact&theme=default#gh-light-mode-only" alt="Github Language Stats Light"/>
+</div>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=Binara-Sachin&label=Profile%20views&color=0e75b6&style=flat" alt="Binara-Sachin"/>
+    <img src="https://komarev.com/ghpvc/?username=Binara-Sachin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <!--
