@@ -73,6 +73,9 @@
 
 ---
 
+[![Binara Sachin's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Binara-Sachin&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Binara-Sachin/github-readme-stats#gh-dark-mode-only)
+[![Binara Sachin's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Binara-Sachin&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Binara-Sachin/github-readme-stats#gh-light-mode-only)
+
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Binara-Sachin&label=Profile%20views&color=0e75b6&style=flat" alt="Binara-Sachin"/>
 </p>
