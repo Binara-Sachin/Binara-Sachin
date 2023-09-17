@@ -73,17 +73,19 @@
 </div>
 
 ---
-
-<div align="center">
-    <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=Binara-Sachin&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-        <img src="https://github-readme-stats.vercel.app/api?username=Binara-Sachin&show_icons=true&theme=default" />
-    </picture>
-    <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Binara-Sachin&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binara-Sachin&layout=compact&theme=default" />
-    </picture>
-</div>
+<details>
+    <summary><h2>Github Stats</h2></summary>
+    <div align="center">
+        <picture>
+            <source srcset="https://github-readme-stats.vercel.app/api?username=Binara-Sachin&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+            <img src="https://github-readme-stats.vercel.app/api?username=Binara-Sachin&show_icons=true&theme=default" />
+        </picture>
+        <picture>
+            <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Binara-Sachin&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binara-Sachin&layout=compact&theme=default" />
+        </picture>
+    </div>
+</details>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Binara-Sachin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
