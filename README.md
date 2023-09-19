@@ -26,6 +26,8 @@
 
 <!-- Tools and Technologies -->
 <h2>
+    <!-- <img width="50" height="50" src="https://img.icons8.com/bubbles/50/code-file--v1.png" alt="code-file--v1"/> -->
+    <!-- <img width="50" height="50" src="https://img.icons8.com/bubbles/50/code.png" alt="code"/> -->
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> 
     <b> Tools and Technologies </b>
 </h2>
@@ -41,6 +43,7 @@
 
  <!-- Blog posts -->
 <h2>
+    <!-- <img width="20" height="20" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-blog-communication-media-flaticons-lineal-color-flat-icons.png" alt="external-blog-communication-media-flaticons-lineal-color-flat-icons"/> -->
     <img width="20" height="20" src="https://img.icons8.com/cotton/40/note--v2.png"/> 
     <b> Blog Posts </b>
 </h2>
@@ -70,7 +73,9 @@
 
 <!-- Connect With Me -->
 <h2>
-    <img width="20" height="20" src="https://img.icons8.com/cotton/20/business-network.png" alt="business-network"/>
+    <img width="20" height="20" src="https://img.icons8.com/cotton/40/business-network.png" alt="business-network"/>
+    <!-- <img width="20" height="20" src="https://img.icons8.com/external-others-phat-plus/40/external-connect-website-blue-others-phat-plus.png" alt="external-connect-website-blue-others-phat-plus"/> -->
+    <!-- <img width="20" height="20" src="https://img.icons8.com/bubbles/40/handshake.png" alt="handshake"/> -->
     <b> Connect with Me </b>
 </h2>
 
