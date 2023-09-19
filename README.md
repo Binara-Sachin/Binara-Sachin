@@ -2,7 +2,7 @@
 
 <!-- About Me -->
 <h2>
-    <img src="assets/icons/about_me.gif" width="20">
+    <img src="assets/icons/about-me.gif" width="20">
     <b> About Me </b>
 </h2>
 
@@ -40,7 +40,7 @@
 
 
  <!-- Blog posts -->
- <h2>
+<h2>
     <img width="20" height="20" src="https://img.icons8.com/cotton/40/note--v2.png"/> 
     <b> Blog Posts </b>
 </h2>
@@ -70,7 +70,8 @@
 
 <!-- Connect With Me -->
 <h2>
-    <b>🤝 Connect with Me </b>
+    <img width="20" height="20" src="https://img.icons8.com/cotton/20/business-network.png" alt="business-network"/>
+    <b> Connect with Me </b>
 </h2>
 
 <div align="center" style="margin-left: 10px;">
