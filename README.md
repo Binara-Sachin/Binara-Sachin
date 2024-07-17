@@ -38,20 +38,14 @@
     <b> Connect with Me </b>
 </h2>
 
-<div align="center" style="margin-left: 10px;">
+<div style="margin-left: 10px;">
     <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/binara-sachin/">
         <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/Binara-Sachin">
-        <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
     </a>
     <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/10943050/binara-sachin">
         <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
     </a>
     <a style="margin-left: 10px;" target="_blank" href="https://leetcode.com/binara_sachin/">
         <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/>
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/binara_sachin/">
-        <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
     </a>
 </div>
