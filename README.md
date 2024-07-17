@@ -55,8 +55,3 @@
         <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
     </a>
 </div>
-
----
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=Binara-Sachin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
