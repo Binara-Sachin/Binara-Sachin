@@ -32,25 +32,6 @@
 - [Configure an OpenLDAP as the Primary UserStore in the WSO2 Identity Server](https://medium.com/@binara.sachin/configure-an-openldap-as-the-primary-userstore-in-the-wso2-identity-server-6ed75b9b13d?source=rss-4b8aee6079f3------2)
 <!-- BLOG-POST-LIST:END -->
 
-<details>
-    <summary>
-        <h2>
-            <img width="20" height="20" src="https://img.icons8.com/fluency/40/bar-chart.png" alt="bar-chart"/>
-            <b> Github Stats </b>
-        </h2>
-    </summary>
-    <div align="center">
-        <picture>
-            <source srcset="https://github-readme-stats.vercel.app/api?username=Binara-Sachin&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-            <img src="https://github-readme-stats.vercel.app/api?username=Binara-Sachin&show_icons=true&theme=default" />
-        </picture>
-        <picture>
-            <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Binara-Sachin&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binara-Sachin&layout=compact&theme=default" />
-        </picture>
-    </div>
-</details>
-
 <!-- Connect With Me -->
 <h2>
     <img width="20" height="20" src="https://img.icons8.com/cotton/40/business-network.png" alt="business-network"/>
