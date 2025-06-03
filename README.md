@@ -30,6 +30,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Configure an OpenLDAP as the Primary UserStore in the WSO2 Identity Server](https://medium.com/@binara.sachin/configure-an-openldap-as-the-primary-userstore-in-the-wso2-identity-server-6ed75b9b13d?source=rss-4b8aee6079f3------2)
+- [Enable ELK-Based Analytics on WSO2 IS 5.11.0 or below versions](https://medium.com/@binara.sachin/enable-elk-based-analytics-on-wso2-is-5-11-0-or-below-versions-419a965c8b3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Connect With Me -->
