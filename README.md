@@ -14,7 +14,7 @@
     ],
     "interests": [
         "Identity and Access Management",
-        "Internet Identity",
+        "Low Level Computing",
         "Backend Development"
     ],
     "languages": ["Java", "Python", "C#"]
