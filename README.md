@@ -28,6 +28,7 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [What Exactly is a Directory Service?](https://medium.com/@binara.sachin/what-exactly-is-a-directory-service-b763e6c395db?source=rss-4b8aee6079f3------2)
 - [Enabling Token Analytics in WSO2 Identity Server with ELK Stack](https://medium.com/@binara.sachin/enabling-token-analytics-in-wso2-identity-server-with-elk-stack-7f19f97053d5?source=rss-4b8aee6079f3------2)
 - [Enable ELK-Based Analytics on WSO2 IS 5.11.0 or below versions](https://medium.com/@binara.sachin/enable-elk-based-analytics-on-wso2-is-5-11-0-or-below-versions-419a965c8b3f?source=rss-4b8aee6079f3------2)
 - [Configure an OpenLDAP as the Primary UserStore in the WSO2 Identity Server](https://medium.com/@binara.sachin/configure-an-openldap-as-the-primary-userstore-in-the-wso2-identity-server-6ed75b9b13d?source=rss-4b8aee6079f3------2)
