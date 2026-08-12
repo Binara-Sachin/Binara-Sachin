@@ -7,17 +7,16 @@
 ```
 {
     "name": "Binara Sachin",
-    "work": "Senior Software Engineer (IAM) @ WSO2",
+    "work": "WSO2",
     "education": [
         "MSc. Advanced Software Engineering - University of Westminster, UK",
         "BSc. (hons) Engineering - University of Moratuwa, SL"
     ],
     "interests": [
         "Identity and Access Management",
-        "Low Level Computing",
-        "Backend Development"
+        "Low Level Computing"
     ],
-    "languages": ["Java", "Python", "C#"]
+    "languages": ["Java", "Python"]
 }
 ```
 
