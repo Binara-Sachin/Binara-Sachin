@@ -28,7 +28,7 @@ I'm interested in IAM concepts as well as low-level programming and systems desi
 
 ## What I Work With
 
-| | |
+| Category | Stack |
 |---|---|
 | **Identity & Standards** | OAuth 2.0 · OpenID Connect · SAML 2.0 · SCIM 2.0 · JWT · LDAP / directory services |
 | **Languages** | Java · Rust · C |
